@@ -1,7 +1,204 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f05595cf-40b3-4e06-8c5a-0f9613d92f6b" name="Default" comment="" />
+    <list default="true" id="f05595cf-40b3-4e06-8c5a-0f9613d92f6b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/vendor/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins.less" />
+      <change type="DELETED" beforePath="C:\Users\Albert\itp405-final\laravel\.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Albert\itp405-final\laravel\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Albert\itp405-final\laravel\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins.less" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\.env" afterPath="$PROJECT_DIR$/.env" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\.env.example" afterPath="$PROJECT_DIR$/.env.example" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Commands\Command.php" afterPath="$PROJECT_DIR$/app/Commands/Command.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Console\Commands\Inspire.php" afterPath="$PROJECT_DIR$/app/Console/Commands/Inspire.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Console\Kernel.php" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Events\Event.php" afterPath="$PROJECT_DIR$/app/Events/Event.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Exceptions\Handler.php" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Handlers\Commands\.gitkeep" afterPath="$PROJECT_DIR$/Procfile" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Handlers\Events\.gitkeep" afterPath="$PROJECT_DIR$/app/Handlers/Commands/.gitkeep" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Http\Controllers\Auth\AuthController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Http\Controllers\Auth\PasswordController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Http\Controllers\Controller.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Http\Controllers\HomeController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Http\Controllers\RecipeController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/RecipeController.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Http\Controllers\WelcomeController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Http\Kernel.php" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Http\Middleware\Authenticate.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Http\Middleware\RedirectIfAuthenticated.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Http\Middleware\VerifyCsrfToken.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Http\Requests\Request.php" afterPath="$PROJECT_DIR$/app/Http/Requests/Request.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Http\routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Models\Ingredient.php" afterPath="$PROJECT_DIR$/app/Models/Ingredient.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Models\Recipe.php" afterPath="$PROJECT_DIR$/app/Models/Recipe.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Providers\AppServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Providers\BusServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/BusServiceProvider.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Providers\ConfigServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/ConfigServiceProvider.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Providers\EventServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Providers\RouteServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Services\Client.php" afterPath="$PROJECT_DIR$/app/Services/Client.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Services\Registrar.php" afterPath="$PROJECT_DIR$/app/Services/Registrar.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Services\Slug.php" afterPath="$PROJECT_DIR$/app/Services/Slug.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\Services\YummlyRequest.php" afterPath="$PROJECT_DIR$/app/Services/YummlyRequest.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\app\User.php" afterPath="$PROJECT_DIR$/app/User.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\artisan" afterPath="$PROJECT_DIR$/artisan" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\bootstrap\app.php" afterPath="$PROJECT_DIR$/bootstrap/app.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\bootstrap\autoload.php" afterPath="$PROJECT_DIR$/bootstrap/autoload.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\config\app.php" afterPath="$PROJECT_DIR$/config/app.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\config\auth.php" afterPath="$PROJECT_DIR$/config/auth.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\config\cache.php" afterPath="$PROJECT_DIR$/config/cache.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\config\compile.php" afterPath="$PROJECT_DIR$/config/compile.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\config\database.php" afterPath="$PROJECT_DIR$/config/database.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\config\filesystems.php" afterPath="$PROJECT_DIR$/config/filesystems.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\config\mail.php" afterPath="$PROJECT_DIR$/config/mail.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\config\queue.php" afterPath="$PROJECT_DIR$/config/queue.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\config\services.php" afterPath="$PROJECT_DIR$/config/services.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\config\session.php" afterPath="$PROJECT_DIR$/config/session.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\config\view.php" afterPath="$PROJECT_DIR$/config/view.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\database\.gitignore" afterPath="$PROJECT_DIR$/database/.gitignore" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\database\migrations\.gitkeep" afterPath="$PROJECT_DIR$/app/Handlers/Events/.gitkeep" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\database\migrations\2014_10_12_000000_create_users_table.php" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\database\migrations\2014_10_12_100000_create_password_resets_table.php" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\database\seeds\.gitkeep" afterPath="$PROJECT_DIR$/database/migrations/.gitkeep" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\database\seeds\DatabaseSeeder.php" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\phpspec.yml" afterPath="$PROJECT_DIR$/phpspec.yml" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\phpunit.xml" afterPath="$PROJECT_DIR$/phpunit.xml" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\public\.htaccess" afterPath="$PROJECT_DIR$/public/.htaccess" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\public\css\app.css" afterPath="$PROJECT_DIR$/public/css/app.css" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\public\favicon.ico" afterPath="$PROJECT_DIR$/public/favicon.ico" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\public\index.php" afterPath="$PROJECT_DIR$/public/index.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\public\robots.txt" afterPath="$PROJECT_DIR$/public/robots.txt" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\app.less" afterPath="$PROJECT_DIR$/resources/assets/less/app.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\alerts.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/alerts.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\badges.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/badges.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\breadcrumbs.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/breadcrumbs.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\button-groups.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/button-groups.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\buttons.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/buttons.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\carousel.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/carousel.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\close.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/close.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\code.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/code.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\component-animations.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/component-animations.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\dropdowns.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/dropdowns.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\forms.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/forms.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\glyphicons.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/glyphicons.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\grid.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/grid.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\input-groups.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/input-groups.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\jumbotron.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/jumbotron.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\labels.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/labels.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\list-group.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/list-group.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\media.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/media.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\alerts.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/alerts.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\background-variant.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/background-variant.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\border-radius.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/border-radius.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\buttons.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/buttons.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\center-block.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/center-block.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\clearfix.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/clearfix.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\forms.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/forms.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\gradients.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/gradients.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\grid-framework.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/grid-framework.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\grid.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/grid.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\hide-text.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/hide-text.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\image.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/image.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\labels.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/labels.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\list-group.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/list-group.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\nav-divider.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/nav-divider.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\nav-vertical-align.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/nav-vertical-align.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\opacity.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/opacity.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\pagination.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/pagination.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\panels.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/panels.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\progress-bar.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/progress-bar.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\reset-filter.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/reset-filter.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\resize.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/resize.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\responsive-visibility.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/responsive-visibility.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\size.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/size.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\tab-focus.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/tab-focus.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\table-row.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/table-row.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\text-emphasis.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/text-emphasis.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\text-overflow.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/text-overflow.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\mixins\vendor-prefixes.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/vendor-prefixes.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\modals.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/modals.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\navbar.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/navbar.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\navs.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/navs.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\normalize.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/normalize.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\pager.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/pager.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\pagination.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/pagination.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\panels.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/panels.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\popovers.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/popovers.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\print.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/print.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\progress-bars.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/progress-bars.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\responsive-embed.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/responsive-embed.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\responsive-utilities.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/responsive-utilities.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\scaffolding.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/scaffolding.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\tables.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/tables.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\theme.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/theme.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\thumbnails.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/thumbnails.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\tooltip.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/tooltip.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\type.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/type.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\utilities.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/utilities.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\variables.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/variables.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\assets\less\bootstrap\wells.less" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/wells.less" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\lang\en\pagination.php" afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\lang\en\passwords.php" afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\lang\en\validation.php" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\add_recipe.blade.php" afterPath="$PROJECT_DIR$/resources/views/add_recipe.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\admin.blade.php" afterPath="$PROJECT_DIR$/resources/views/admin.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\app.blade.php" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\auth\login.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\auth\password.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/password.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\auth\register.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\auth\reset.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/reset.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\bg.jpg" afterPath="$PROJECT_DIR$/resources/views/bg.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\bookmarks.blade.php" afterPath="$PROJECT_DIR$/resources/views/bookmarks.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\create_user.blade.php" afterPath="$PROJECT_DIR$/resources/views/create_user.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\css\bootstrap.css" afterPath="$PROJECT_DIR$/resources/views/css/bootstrap.css" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/resources/views/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\css\simple-sidebar.css" afterPath="$PROJECT_DIR$/resources/views/css/simple-sidebar.css" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\dashboard.blade.php" afterPath="$PROJECT_DIR$/resources/views/dashboard.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\edit_user.blade.php" afterPath="$PROJECT_DIR$/resources/views/edit_user.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\emails\password.blade.php" afterPath="$PROJECT_DIR$/resources/views/emails/password.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\errors\503.blade.php" afterPath="$PROJECT_DIR$/resources/views/errors/503.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/resources/views/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/resources/views/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/resources/views/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/resources/views/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\fonts\glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/resources/views/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\genre.blade.php" afterPath="$PROJECT_DIR$/resources/views/genre.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\home.blade.php" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\home_page.blade.php" afterPath="$PROJECT_DIR$/resources/views/home_page.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\js\bootstrap.js" afterPath="$PROJECT_DIR$/resources/views/js/bootstrap.js" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/resources/views/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\js\jquery.js" afterPath="$PROJECT_DIR$/resources/views/js/jquery.js" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\layout.blade.php" afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\login.blade.php" afterPath="$PROJECT_DIR$/resources/views/login.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\manage_users.blade.php" afterPath="$PROJECT_DIR$/resources/views/manage_users.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\results.blade.php" afterPath="$PROJECT_DIR$/resources/views/results.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\review.blade.php" afterPath="$PROJECT_DIR$/resources/views/review.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\search.blade.php" afterPath="$PROJECT_DIR$/resources/views/search.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\signup.blade.php" afterPath="$PROJECT_DIR$/resources/views/signup.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\vendor\.gitkeep" afterPath="$PROJECT_DIR$/database/seeds/.gitkeep" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\resources\views\welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\server.php" afterPath="$PROJECT_DIR$/server.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\storage\.gitignore" afterPath="$PROJECT_DIR$/storage/.gitignore" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\storage\app\.gitignore" afterPath="$PROJECT_DIR$/storage/app/.gitignore" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\storage\framework\.gitignore" afterPath="$PROJECT_DIR$/storage/framework/.gitignore" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\storage\framework\cache\.gitignore" afterPath="$PROJECT_DIR$/storage/framework/cache/.gitignore" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\storage\framework\sessions\.gitignore" afterPath="$PROJECT_DIR$/storage/framework/sessions/.gitignore" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\storage\framework\views\.gitignore" afterPath="$PROJECT_DIR$/storage/framework/views/.gitignore" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\storage\logs\.gitignore" afterPath="$PROJECT_DIR$/storage/logs/.gitignore" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\tests\ExampleTest.php" afterPath="$PROJECT_DIR$/tests/ExampleTest.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\tests\RecipeTest.php" afterPath="$PROJECT_DIR$/tests/RecipeTest.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\tests\SlugTest.php" afterPath="$PROJECT_DIR$/tests/SlugTest.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\tests\TestCase.php" afterPath="$PROJECT_DIR$/tests/TestCase.php" />
+      <change type="MOVED" beforePath="C:\Users\Albert\itp405-final\laravel\tests\YummlyTest.php" afterPath="$PROJECT_DIR$/tests/YummlyTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="itp405-spring2015-mvc.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,7 +221,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="home_page.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/resources/views/home_page.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/home_page.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="19" column="42" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0" vertical-offset="104" max-vertical-offset="714">
               <folding />
@@ -33,7 +230,7 @@
         </entry>
       </file>
       <file leaf-file-name="home.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/resources/views/home.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="13" column="14" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="391">
               <folding />
@@ -42,7 +239,7 @@
         </entry>
       </file>
       <file leaf-file-name="genre.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/resources/views/genre.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/genre.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
               <folding />
@@ -51,7 +248,7 @@
         </entry>
       </file>
       <file leaf-file-name="edit_user.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/resources/views/edit_user.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/edit_user.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="23" column="31" selection-start="536" selection-end="536" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="714">
               <folding />
@@ -60,7 +257,7 @@
         </entry>
       </file>
       <file leaf-file-name="layout.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/resources/views/layout.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/layout.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="35" column="30" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.0" vertical-offset="249" max-vertical-offset="1037">
               <folding />
@@ -69,7 +266,7 @@
         </entry>
       </file>
       <file leaf-file-name="dashboard.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/resources/views/dashboard.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/dashboard.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="20" column="10" selection-start="767" selection-end="767" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="612">
               <folding />
@@ -77,28 +274,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manage_users.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/resources/views/manage_users.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="23" selection-start="1248" selection-end="1248" vertical-scroll-proportion="0.0" vertical-offset="334" max-vertical-offset="969">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/readme.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="60" selection-end="60" vertical-scroll-proportion="0.11623932" vertical-offset="0" max-vertical-offset="585">
+            <state line="4" column="0" selection-start="60" selection-end="60" vertical-scroll-proportion="-2.72" vertical-offset="0" max-vertical-offset="170">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.26153848" vertical-offset="0" max-vertical-offset="833">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".env" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="23" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
               <folding />
             </state>
           </provider>
@@ -117,7 +323,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/laravel/app/Models/Sound.php" />
         <option value="$PROJECT_DIR$/laravel/app/Models/Genre.php" />
         <option value="$PROJECT_DIR$/laravel/resources/views/vendor/dvd.blade.php" />
         <option value="$PROJECT_DIR$/laravel/resources/views/search.php" />
@@ -168,6 +373,7 @@
         <option value="$PROJECT_DIR$/laravel/resources/views/layout.blade.php" />
         <option value="$PROJECT_DIR$/laravel/resources/views/manage_users.blade.php" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
@@ -222,20 +428,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="itp405-spring2015-mvc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="itp405-final" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -256,6 +448,7 @@
       <recent name="C:\Users\Albert\Documents\itp405-finalproject\laravel\app\Services" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Albert\itp405-final" />
       <recent name="C:\Users\Albert\itp405-finalproject\laravel\resources\views\fonts" />
       <recent name="C:\Users\Albert\itp405-finalproject\laravel\resources\views\js" />
       <recent name="C:\Users\Albert\itp405-finalproject\laravel\resources\views\css" />
@@ -305,7 +498,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32982087" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -346,16 +539,9 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/manage_users.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/manage_users.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="23" selection-start="1248" selection-end="1248" vertical-scroll-proportion="0.0" vertical-offset="334" max-vertical-offset="969">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
           <folding />
         </state>
       </provider>
@@ -367,262 +553,323 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/auth/register.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="26" selection-start="534" selection-end="534" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="1207" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Middleware/VerifyCsrfToken.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="5" selection-start="390" selection-end="390" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="425" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/auth/login.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="0" selection-start="932" selection-end="932" vertical-scroll-proportion="-9.480769" vertical-offset="0" max-vertical-offset="1173" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Middleware/RedirectIfAuthenticated.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="7" selection-start="263" selection-end="263" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="833" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Kernel.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Middleware/Authenticate.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="7" selection-start="314" selection-end="314" vertical-scroll-proportion="-6.2115383" vertical-offset="0" max-vertical-offset="935" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/add_recipe.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/add_recipe.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="17" selection-start="37" selection-end="37" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="816" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Requests/Request.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/Request.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/User.php">
+    <entry file="file://$PROJECT_DIR$/app/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="55" selection-start="1146" selection-end="1151" vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="782" />
+        <state line="40" column="55" selection-start="1146" selection-end="1151" vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="782">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/login.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/login.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="46" selection-start="637" selection-end="701" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="612" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Http/routes.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="83" column="0" selection-start="2105" selection-end="2105" vertical-scroll-proportion="0.6822742" vertical-offset="799" max-vertical-offset="2720" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Models/Ingredient.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/Ingredient.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="47" selection-start="460" selection-end="460" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="850" />
+        <state line="22" column="47" selection-start="460" selection-end="460" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="850">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/bg.jpg">
+    <entry file="file://$PROJECT_DIR$/resources/views/bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/artisan">
+    <entry file="file://$PROJECT_DIR$/artisan">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="23" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/.env.example">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="610" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/phpunit.xml">
+    <entry file="file://$PROJECT_DIR$/.env.example">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="610">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/phpunit.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="26" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="610">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/HomeController.php">
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="714" />
+        <state line="4" column="26" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Services/Client.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="204" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="714">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Services/Registrar.php">
+    <entry file="file://$PROJECT_DIR$/app/Services/Client.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="47" selection-start="475" selection-end="475" vertical-scroll-proportion="-5.8076925" vertical-offset="121" max-vertical-offset="731" />
+        <state line="5" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/WelcomeController.php">
+    <entry file="file://$PROJECT_DIR$/app/Services/Registrar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="902" />
+        <state line="18" column="47" selection-start="475" selection-end="475" vertical-scroll-proportion="-5.8076925" vertical-offset="121" max-vertical-offset="731">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/tests/YummlyTest.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="12" selection-start="1139" selection-end="1139" vertical-scroll-proportion="-13.961538" vertical-offset="283" max-vertical-offset="867" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="902">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/composer.json">
+    <entry file="file://$PROJECT_DIR$/tests/YummlyTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="34" selection-start="309" selection-end="309" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="867" />
+        <state line="38" column="12" selection-start="1139" selection-end="1139" vertical-scroll-proportion="-13.961538" vertical-offset="283" max-vertical-offset="867">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Services/Slug.php">
+    <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="111" selection-end="111" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="408" />
+        <state line="12" column="34" selection-start="309" selection-end="309" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="867">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/tests/SlugTest.php">
+    <entry file="file://$PROJECT_DIR$/app/Services/Slug.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="81" selection-start="241" selection-end="241" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="255" />
+        <state line="9" column="5" selection-start="111" selection-end="111" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/tests/TestCase.php">
+    <entry file="file://$PROJECT_DIR$/tests/SlugTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="610" />
+        <state line="7" column="81" selection-start="241" selection-end="241" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/tests/ExampleTest.php">
+    <entry file="file://$PROJECT_DIR$/tests/TestCase.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="610" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="610">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/RecipeController.php">
+    <entry file="file://$PROJECT_DIR$/tests/ExampleTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="0" selection-start="3782" selection-end="3782" vertical-scroll-proportion="-7.8461537" vertical-offset="1836" max-vertical-offset="2992" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="610">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Services/YummlyRequest.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/RecipeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="85" selection-start="544" selection-end="544" vertical-scroll-proportion="-1.3076923" vertical-offset="357" max-vertical-offset="1190" />
+        <state line="124" column="0" selection-start="3782" selection-end="3782" vertical-scroll-proportion="-7.8461537" vertical-offset="1836" max-vertical-offset="2992">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/tests/RecipeTest.php">
+    <entry file="file://$PROJECT_DIR$/app/Services/YummlyRequest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="664" selection-end="664" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="493" />
+        <state line="23" column="85" selection-start="544" selection-end="544" vertical-scroll-proportion="-1.3076923" vertical-offset="357" max-vertical-offset="1190">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Models/Recipe.php">
+    <entry file="file://$PROJECT_DIR$/tests/RecipeTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="21" selection-start="149" selection-end="149" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="2839" />
+        <state line="21" column="0" selection-start="664" selection-end="664" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="493">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/admin.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/Recipe.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="22" selection-start="2042" selection-end="2073" vertical-scroll-proportion="-9.807693" vertical-offset="663" max-vertical-offset="1292" />
+        <state line="11" column="21" selection-start="149" selection-end="149" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="2839">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/create_user.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/admin.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="11" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="714" />
+        <state line="54" column="22" selection-start="2042" selection-end="2073" vertical-scroll-proportion="-9.807693" vertical-offset="663" max-vertical-offset="1292">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/bookmarks.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/create_user.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="4590" />
+        <state line="3" column="11" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="714">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/signup.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/bookmarks.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="28" selection-start="273" selection-end="273" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="697" />
+        <state line="9" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="4590">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/review.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/signup.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2584" />
+        <state line="16" column="28" selection-start="273" selection-end="273" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="697">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/search.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/review.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="19" selection-start="78" selection-end="78" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="578" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2584">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/results.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/search.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="165" column="20" selection-start="4337" selection-end="4337" vertical-scroll-proportion="-1.9615384" vertical-offset="2754" max-vertical-offset="6086" />
+        <state line="6" column="19" selection-start="78" selection-end="78" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="578">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/home.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/results.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="165" column="20" selection-start="4337" selection-end="4337" vertical-scroll-proportion="-1.9615384" vertical-offset="2754" max-vertical-offset="6086">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="14" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="391">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/genre.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/genre.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/dashboard.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/dashboard.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="10" selection-start="767" selection-end="767" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/home_page.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/home_page.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="42" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0" vertical-offset="104" max-vertical-offset="714">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/edit_user.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/edit_user.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="31" selection-start="536" selection-end="536" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="714">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/layout.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/layout.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="30" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.0" vertical-offset="249" max-vertical-offset="1037">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/resources/views/manage_users.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/manage_users.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="23" selection-start="1248" selection-end="1248" vertical-scroll-proportion="0.0" vertical-offset="334" max-vertical-offset="969">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/readme.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="597">
+        <state line="4" column="0" selection-start="60" selection-end="60" vertical-scroll-proportion="-2.72" vertical-offset="0" max-vertical-offset="170">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="60" selection-end="60" vertical-scroll-proportion="0.11623932" vertical-offset="0" max-vertical-offset="585">
+        <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="23" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.26153848" vertical-offset="0" max-vertical-offset="833">
           <folding />
         </state>
       </provider>
